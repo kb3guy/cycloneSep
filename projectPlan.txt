@@ -1,0 +1,37 @@
+Dust Cyclone Design
+
+
+- 2D2D cyclone, or AEC cyclones are almost 100% efficient for particles larger than 20um
+
+- barrel and cone heights are equal to two barrel diameters. Shepherd and lapple design was of the same aspect ratio.
+
+- higher gas flow, with higher pressure drop, yields an increase in efficiency.
+
+- rough seams in cyclone body can reduce collection efficiency.
+
+
+-1d3d cyclones with enhancements are now most common
+- 1d3d refers to barrel height of one barrel diameter, and cone height of three barrel diameters.
+- inlet is ½ diameter high, ¼ diameter wide. 
+- cone bottom is 1/3 diameter wide with an expansion chamber
+- 
+
+References
+(Baker et al., 1997; Holt et al., 1999; Obermair and Staudinger, 2001). 
+
+Baker, R.V., S.E. Hughes, M.N. Gillum and J.K. Green. 1997. Improvements for cotton gin trash cyclones. Trans. ASAE 40(1):5–12. 
+Holt, G.A., R.V. Baker and S.E. Hughs. 1999. Evaluation of static pressure drops and PM10 and TSP emissions for modified 1D-3D cyclones. Trans. ASABE 42(6):1541–1547. 
+Obermair, S. and G. Staudinger. 2001. The dust outlet of a gas cyclone and its effects on separation efficiency. Chem. Eng. Technol. 24(12):1259–1263. 
+
+https://www.cotton.org/journal/2013-17/1/upload/JCS17-40.pdf
+
+
+First, M.W., 1950. Fundamental Factors in the Design of Cyclone Dust Collectors. Ph.D. dissertation. Cambridge, Mass.: Harvard University. 
+Lapple, C. E. 1951. Processes use many collector types. Chemical Engineering 58 (5):144-151 
+Shepherd, C.B. and C.E. Lapple. 1940. Flow pattern and pressure drop in cyclone dust collectors 
+
+
+
+NFPA484 requires daily removal of dust from collectors
+
+
